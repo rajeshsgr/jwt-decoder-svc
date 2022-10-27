@@ -2,7 +2,7 @@
 
 ## Decode a token
 
-This service is used to decode the provided JWT 
+This service is used to decode JWT. Service takes JWT as input and returns header and payload information
 
 ### Request
 
