@@ -2,7 +2,10 @@
 
 ## Decode a token
 
-This service is used to decode JWT. Service takes JWT as input and returns header and payload information
+This service is used to decode JWT. 
+API takes JWT as input , decoded the encoded JWT and returns header and payload information as String
+
+Please do star the repository if you find this code useful.
 
 ### Request
 
